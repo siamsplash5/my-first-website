@@ -1,0 +1,29 @@
+.headbox{
+    text-align: center;
+    font-family: sans-serif;
+    color: azure;
+    background-color:darkslateblue;
+    border-radius: 2%;
+    padding: 5px;
+}
+h3{
+    text-align: center;
+    color: steelblue;
+}
+.feature{
+    border-radius: 2%;
+    margin: 1%;
+    padding: 1%;
+    height: 50%;
+    width: 28.9%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    display: inline-block;
+    background-color: aliceblue;
+}
+
+.feature_images{
+    width: 200px;
+    margin-left: 23%;
+}
+
